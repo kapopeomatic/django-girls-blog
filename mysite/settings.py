@@ -25,7 +25,7 @@ SECRET_KEY = 'h0o0u3f^bepdh$7b1+*0yzsk-fqry8+k%ia+%l*e+ok$y@p8^0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','kapopeomatic.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','kapope.pythonanywhere.com']
 
 
 # Application definition
